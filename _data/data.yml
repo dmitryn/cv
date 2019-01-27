@@ -3,8 +3,8 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Dmitry Novotochinov
@@ -41,27 +41,22 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      Software Engineer with broad experience in web and mobile development.
 
-      Second paragraph if required.
+      Data processing, real-time systems, web APIs, web & mobile clients.
 
 education:
     - degree: BS in Sociology
       university: Moscow State University
       time: 2000 - 2005
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Social science using mathematical and statistical tools
 
-          - Bullet point
-          - Bullet point
+          - Sociology
+          - Statistics
+          - Probability theory
+          - Mathematical Analysis
+          - Higher Mathematics
 
 experiences:
     - role: Software Engineer
@@ -89,6 +84,9 @@ experiences:
       company: InSales, Moscow
       details: |
         SaaS platform for e-commerce shops (Ruby, Rails)
+
+        - Ruby / Rails
+        - Javascript
 
 # projects:
 #     title: Projects
@@ -164,22 +162,22 @@ skills:
 
     toolset:
       - name: Clojure / Clojurescript
-        level: Excellent
+        level: 100%
 
       - name: Java / Kotlin / Android
-        level: Good
+        level: 80%
 
       - name: Scala & Spark
-        level: Good
+        level: 70%
 
       - name: Javascript & React
-        level: Excellent
+        level: 90%
 
       - name: HTML5 & CSS
-        level: Good
+        level: 90%
 
       - name: Ruby on Rails
-        level: Excellent
+        level: 95%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
