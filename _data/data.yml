@@ -12,7 +12,7 @@ sidebar:
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dmitry.novot@gmail.com
+    email: trybeee@gmail.com
     phone: 
     website: https://dmitryn.github.io/cv/assets/cv.pdf
     website_title: "CV"
@@ -20,10 +20,10 @@ sidebar:
     github: dmitryn 
     gitlab:
     bitbucket:
-    twitter: '@dmitrynovot'
+    twitter: #'@dmitrynovot'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: 33520549-dmitry-novotochinov
+    goodreads: # 33520549-dmitry-novotochinov
 
     languages:
       - idiom: English
