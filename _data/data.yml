@@ -7,41 +7,35 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Dmitry Novotochinov
+    tagline: Software Engineer
+    avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: trybeee@gmail.com
+    phone: 
+    website: #do not add http://
+    linkedin: dmitrynovotochinov
+    github: dmitryn 
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@dmitrynovot'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Russian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: Engligh
         level: Professional
 
     interests:
-      - item: Climbing
-        link:
-
       - item: Snowboarding
         link:
 
-      - item: Cooking
+      - item: Guitar playing
         link:
 
 career-profile:
@@ -56,22 +50,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BS in Sociology
+      university: Moscow State University
+      time: 2000 - 2005
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -83,118 +64,122 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Software Engineer
+      time: 2017 - Present
+      company: Status.im, Global
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Ethereum mobile client (wallet, chat, dApp browser)
 
-          - Bullet point
-          - Bullet point
+          - React Native (Clojurescript, Javascript)
+          - Android Development (Java, NFC)
+          - Ethereum / web3.js
 
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2012 - 2017
+      company: Virool / Turgo, San Francisco
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Online video advertisement platform
 
-          - Bullet point
-          - Bullet point
+          - RealTime Bidding server in Clojure 
+          - Events tracking pipeline 
+          - Fraud detection using Spark 
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Engineer
+      time: 2010 - 2012
+      company: InSales, Moscow
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        SaaS platform for e-commerce shops (Ruby, Rails)
 
-          - Bullet point
-          - Bullet point
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Certifications & Courses
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "Programming Mobile Applications for Android Handheld Systems: Part 1"
+        authors: Coursera
+        conference: 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+      - title: Introduction To Swift Programming
+        authors: Coursera
+        conference: 2019
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Kotlin for Java Developers
+        authors: Coursera
+        conference: 2018
+
+      - title: Bitcoin and Cryptocurrency Technologies
+        authors: edX
+        conference: 2018
+
+      - title: Архитектура ЭВМ (Computer Architecture)
+        authors: Coursera 
+        conference: 2018
+
+      - title: Big Data Analysis with Scala and Spark
+        authors: Coursera
+        conference: 2017
+
+      - title: Functional Programming Principles in Scala
+        authors: Coursera 
+        conference: 2016
+
+      - title: Functional Programming in Haskell
+        authors: stepic.org
+        conference: 2015
+
+      - title: Introduction to Big Data with Apache Spark
+        authors: edX
+        conference: 2015
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Clojure / Clojurescript
+        level: Excellent
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java / Kotlin / Android
+        level: Good
 
-      - name: Angular
-        level: 98%
+      - name: Scala & Spark
+        level: Good
+
+      - name: Javascript & React
+        level: Excellent
 
       - name: HTML5 & CSS
-        level: 95%
+        level: Good
 
       - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: Excellent
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
