@@ -25,17 +25,17 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
+      - idiom: English
+        level: Professional
+
       - idiom: Russian
         level: Native
 
-      - idiom: Engligh
-        level: Professional
-
     interests:
-      - item: Snowboarding
+      - item: Snowboarding / Skating
         link:
 
-      - item: Guitar playing
+      - item: Guitar / Bass playing
         link:
 
 career-profile:
