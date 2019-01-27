@@ -5,8 +5,8 @@ title: Dmitry Novotochinov | Software Engineer | CV
 url: 'https://dmitryn.github.io/'
 baseurl: '/cv' #change it according to your repository name
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
-theme_skin: "berry"
-chrome_mobile_color: "#A05377"
+theme_skin: "turquoise"
+chrome_mobile_color: "#4cac9e"
 
 # Tracker
 analytics: UA-133277188-1
