@@ -51,13 +51,12 @@ education:
       university: Moscow State University
       time: 2000 - 2005
       details: |
-        Social science using mathematical and statistical tools
+        Social science using mathematics and statistics
 
           - Sociology
+          - Data analysis
           - Statistics
           - Probability theory
-          - Mathematical Analysis
-          - Higher Mathematics
 
 experiences:
     - role: Software Engineer
@@ -170,6 +169,9 @@ skills:
 
       - name: Scala & Spark
         level: 70%
+
+      - name: Swift / Objective C / iOS
+        level: 60%
 
       - name: Javascript & React
         level: 90%
